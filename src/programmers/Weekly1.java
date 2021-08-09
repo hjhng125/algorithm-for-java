@@ -1,6 +1,6 @@
 package programmers;
 
-public class weekly1 {
+public class Weekly1 {
     public static void main(String[] args) {
 
         long result = new Solution().solution(3, 20, 4);
